@@ -1,0 +1,1435 @@
+{
+  "figma": {
+    "flow": null
+  },
+  "frames": [
+    {
+      "id": "27334794-0828-4600-a835-402906104000",
+      "tag": "div",
+      "data": {
+        "position": {
+          "x": -133,
+          "y": -430
+        },
+        "dimensions": {
+          "width": 390,
+          "height": 844
+        },
+        "isResponsive": true,
+        "placeholderImage": "https://weavely.blob.core.windows.net/development-4f1dc362-0314-4205-a607-9f4494d52e46/27334794-0828-4600-a835-402906104000.jpg"
+      },
+      "layer": {
+        "id": "4:4277",
+        "name": "wrapper",
+        "boundingBox": {
+          "x": -133,
+          "y": -430,
+          "width": 390,
+          "height": 844
+        },
+        "figmaNodeType": "FRAME"
+      },
+      "style": {
+        "gap": "64px",
+        "display": "flex",
+        "opacity": 1,
+        "minWidth": "100%",
+        "overflow": "visible",
+        "position": "relative",
+        "minHeight": "100%",
+        "alignItems": "center",
+        "background": "linear-gradient(rgba(255,255,255,1), rgba(255,255,255,1))",
+        "paddingTop": "160px",
+        "paddingLeft": "40px",
+        "paddingRight": "40px",
+        "flexDirection": "column",
+        "paddingBottom": "24px",
+        "justifyContent": "start"
+      },
+      "events": [],
+      "weavely": {
+        "component": null,
+        "attributes": {},
+        "figmaNodeId": "4:4277"
+      },
+      "children": [
+        {
+          "id": "26195933-0208-4700-a890-537319993000",
+          "tag": "div",
+          "data": {},
+          "layer": {
+            "id": "4:4281",
+            "name": "form",
+            "boundingBox": {
+              "x": -93,
+              "y": -270,
+              "width": 310,
+              "height": 500
+            },
+            "figmaNodeType": "FRAME"
+          },
+          "style": {
+            "gap": "24px",
+            "display": "flex",
+            "opacity": 1,
+            "flexGrow": 0,
+            "overflow": "visible",
+            "position": "relative",
+            "alignSelf": "stretch",
+            "alignItems": "center",
+            "background": "",
+            "flexShrink": 0,
+            "paddingTop": "0px",
+            "paddingLeft": "0px",
+            "paddingRight": "0px",
+            "flexDirection": "column",
+            "paddingBottom": "0px",
+            "justifyContent": "start"
+          },
+          "events": [],
+          "weavely": {
+            "component": null,
+            "attributes": {},
+            "figmaNodeId": "4:4281"
+          },
+          "children": [
+            {
+              "id": "14065620-0684-4000-a370-131148444000",
+              "tag": "div",
+              "data": {},
+              "layer": {
+                "id": "4:5214",
+                "name": "Frame 1",
+                "boundingBox": {
+                  "x": -93,
+                  "y": -270,
+                  "width": 310,
+                  "height": 45
+                },
+                "figmaNodeType": "FRAME"
+              },
+              "style": {
+                "height": "45px",
+                "opacity": 1,
+                "flexGrow": 0,
+                "overflow": "visible",
+                "position": "relative",
+                "alignSelf": "stretch",
+                "background": "",
+                "flexShrink": 0
+              },
+              "events": [],
+              "weavely": {
+                "component": null,
+                "attributes": {},
+                "figmaNodeId": "4:5214"
+              },
+              "children": [
+                {
+                  "id": "45841164-2034-4000-a870-578673418000",
+                  "tag": "div",
+                  "data": {},
+                  "layer": {
+                    "id": "4:4282",
+                    "name": "Weave.ly",
+                    "boundingBox": {
+                      "x": -93,
+                      "y": -270,
+                      "width": 310,
+                      "height": 45
+                    },
+                    "figmaNodeType": "TEXT"
+                  },
+                  "style": {
+                    "top": "calc(50% - 22.5px",
+                    "left": "calc(50% - 155px",
+                    "width": "310px",
+                    "height": "45px",
+                    "display": "flex",
+                    "opacity": 1,
+                    "flexWrap": "wrap",
+                    "overflow": "visible",
+                    "position": "absolute",
+                    "alignContent": "start",
+                    "justifyContent": "center"
+                  },
+                  "events": [],
+                  "weavely": {
+                    "component": null,
+                    "attributes": {},
+                    "figmaNodeId": "4:4282"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "data": {
+                        "text": "Weave.ly"
+                      },
+                      "layer": {},
+                      "style": {
+                        "color": "rgba(17,25,40,1)",
+                        "width": "100%",
+                        "fontSize": "30px",
+                        "textAlign": "CENTER",
+                        "fontFamily": "Inter",
+                        "fontWeight": 700,
+                        "lineHeight": "150%",
+                        "whiteSpace": "pre-wrap",
+                        "letterSpacing": "0.000em",
+                        "textTransform": "none",
+                        "textDecoration": "none"
+                      },
+                      "events": [],
+                      "weavely": null,
+                      "children": [],
+                      "namespace": "http://www.w3.org/1999/xhtml",
+                      "attributes": {},
+                      "dataAttributes": {}
+                    }
+                  ],
+                  "namespace": "http://www.w3.org/1999/xhtml",
+                  "attributes": {},
+                  "dataAttributes": {
+                    "figmaId": "4:4282",
+                    "figmaNodeName": "Weave.ly",
+                    "figmaNodeType": "TEXT"
+                  }
+                }
+              ],
+              "namespace": "http://www.w3.org/1999/xhtml",
+              "attributes": {},
+              "dataAttributes": {
+                "figmaId": "4:5214",
+                "figmaNodeName": "Frame 1",
+                "figmaNodeType": "FRAME"
+              }
+            },
+            {
+              "id": "33542077-7465-4400-a996-283255615000",
+              "tag": "div",
+              "data": {},
+              "layer": {
+                "id": "4:5213",
+                "name": "Transform how you design with weave.ly",
+                "boundingBox": {
+                  "x": -93,
+                  "y": -201,
+                  "width": 310,
+                  "height": 24
+                },
+                "figmaNodeType": "TEXT"
+              },
+              "style": {
+                "height": "24px",
+                "display": "flex",
+                "opacity": 1,
+                "flexGrow": 0,
+                "flexWrap": "wrap",
+                "overflow": "visible",
+                "position": "relative",
+                "alignSelf": "stretch",
+                "flexShrink": 0,
+                "alignContent": "start",
+                "justifyContent": "center"
+              },
+              "events": [],
+              "weavely": {
+                "component": null,
+                "attributes": {},
+                "figmaNodeId": "4:5213"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "data": {
+                    "text": "Transform how you design with weave.ly"
+                  },
+                  "layer": {},
+                  "style": {
+                    "color": "rgba(17,25,40,1)",
+                    "width": "100%",
+                    "fontSize": "16px",
+                    "textAlign": "CENTER",
+                    "fontFamily": "Inter",
+                    "fontWeight": 400,
+                    "lineHeight": "150%",
+                    "whiteSpace": "pre-wrap",
+                    "letterSpacing": "0.000em",
+                    "textTransform": "none",
+                    "textDecoration": "none"
+                  },
+                  "events": [],
+                  "weavely": null,
+                  "children": [],
+                  "namespace": "http://www.w3.org/1999/xhtml",
+                  "attributes": {},
+                  "dataAttributes": {}
+                }
+              ],
+              "namespace": "http://www.w3.org/1999/xhtml",
+              "attributes": {},
+              "dataAttributes": {
+                "figmaId": "4:5213",
+                "figmaNodeName": "Transform how you design with weave.ly",
+                "figmaNodeType": "TEXT"
+              }
+            },
+            {
+              "id": "12138519-9648-4000-a691-762436096000",
+              "tag": "div",
+              "data": {},
+              "layer": {
+                "id": "4:4283",
+                "name": "Create an account",
+                "boundingBox": {
+                  "x": -93,
+                  "y": -153,
+                  "width": 310,
+                  "height": 30
+                },
+                "figmaNodeType": "TEXT"
+              },
+              "style": {
+                "height": "30px",
+                "display": "flex",
+                "opacity": 1,
+                "flexGrow": 0,
+                "flexWrap": "wrap",
+                "overflow": "visible",
+                "position": "relative",
+                "alignSelf": "stretch",
+                "flexShrink": 0,
+                "alignContent": "start",
+                "justifyContent": "center"
+              },
+              "events": [],
+              "weavely": {
+                "component": null,
+                "attributes": {},
+                "figmaNodeId": "4:4283"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "data": {
+                    "text": "Create an account"
+                  },
+                  "layer": {},
+                  "style": {
+                    "color": "rgba(17,25,40,1)",
+                    "width": "100%",
+                    "fontSize": "20px",
+                    "textAlign": "CENTER",
+                    "fontFamily": "Inter",
+                    "fontWeight": 600,
+                    "lineHeight": "150%",
+                    "whiteSpace": "pre-wrap",
+                    "letterSpacing": "0.000em",
+                    "textTransform": "none",
+                    "textDecoration": "none"
+                  },
+                  "events": [],
+                  "weavely": null,
+                  "children": [],
+                  "namespace": "http://www.w3.org/1999/xhtml",
+                  "attributes": {},
+                  "dataAttributes": {}
+                }
+              ],
+              "namespace": "http://www.w3.org/1999/xhtml",
+              "attributes": {},
+              "dataAttributes": {
+                "figmaId": "4:4283",
+                "figmaNodeName": "Create an account",
+                "figmaNodeType": "TEXT"
+              }
+            },
+            {
+              "id": "30957495-1686-4400-a130-469984416000",
+              "tag": "div",
+              "data": {},
+              "layer": {
+                "id": "4:4284",
+                "name": "input-email",
+                "boundingBox": {
+                  "x": -93,
+                  "y": -99,
+                  "width": 310,
+                  "height": 71
+                },
+                "figmaNodeType": "INSTANCE"
+              },
+              "style": {
+                "gap": "8px",
+                "display": "flex",
+                "opacity": 1,
+                "flexGrow": 0,
+                "overflow": "visible",
+                "position": "relative",
+                "alignSelf": "stretch",
+                "alignItems": "center",
+                "background": "",
+                "flexShrink": 0,
+                "paddingTop": "0px",
+                "paddingLeft": "0px",
+                "paddingRight": "0px",
+                "flexDirection": "column",
+                "paddingBottom": "0px",
+                "justifyContent": "start"
+              },
+              "events": [],
+              "weavely": {
+                "component": null,
+                "attributes": {},
+                "figmaNodeId": "4:4284"
+              },
+              "children": [
+                {
+                  "id": "01875541-5764-4000-a889-765597663000",
+                  "tag": "div",
+                  "data": {},
+                  "layer": {
+                    "id": "I4:4284;862:119",
+                    "name": "Label",
+                    "boundingBox": {
+                      "x": -93,
+                      "y": -99,
+                      "width": 310,
+                      "height": 21
+                    },
+                    "figmaNodeType": "TEXT"
+                  },
+                  "style": {
+                    "height": "21px",
+                    "display": "flex",
+                    "opacity": 1,
+                    "flexGrow": 0,
+                    "flexWrap": "wrap",
+                    "overflow": "visible",
+                    "position": "relative",
+                    "alignSelf": "stretch",
+                    "flexShrink": 0,
+                    "alignContent": "start",
+                    "justifyContent": "left"
+                  },
+                  "events": [],
+                  "weavely": {
+                    "component": null,
+                    "attributes": {},
+                    "figmaNodeId": "I4:4284;862:119"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "data": {
+                        "text": "First name"
+                      },
+                      "layer": {},
+                      "style": {
+                        "color": "rgba(17,25,40,1)",
+                        "width": "100%",
+                        "fontSize": "14px",
+                        "textAlign": "LEFT",
+                        "fontFamily": "Inter",
+                        "fontWeight": 500,
+                        "lineHeight": "150%",
+                        "whiteSpace": "pre-wrap",
+                        "letterSpacing": "0.000em",
+                        "textTransform": "none",
+                        "textDecoration": "none"
+                      },
+                      "events": [],
+                      "weavely": null,
+                      "children": [],
+                      "namespace": "http://www.w3.org/1999/xhtml",
+                      "attributes": {},
+                      "dataAttributes": {}
+                    }
+                  ],
+                  "namespace": "http://www.w3.org/1999/xhtml",
+                  "attributes": {},
+                  "dataAttributes": {
+                    "figmaId": "I4:4284;862:119",
+                    "figmaNodeName": "Label",
+                    "figmaNodeType": "TEXT"
+                  }
+                },
+                {
+                  "id": "10797588-9024-4000-a764-990525510000",
+                  "tag": "div",
+                  "data": {},
+                  "layer": {
+                    "id": "I4:4284;862:120",
+                    "name": "Container",
+                    "boundingBox": {
+                      "x": -93,
+                      "y": -70,
+                      "width": 310,
+                      "height": 42
+                    },
+                    "figmaNodeType": "FRAME"
+                  },
+                  "style": {
+                    "gap": "10px",
+                    "display": "flex",
+                    "opacity": 1,
+                    "flexGrow": 0,
+                    "overflow": "visible",
+                    "position": "relative",
+                    "alignSelf": "stretch",
+                    "borderTop": "1px solid rgba(209,213,219,1)",
+                    "alignItems": "start",
+                    "background": "linear-gradient(rgba(249,250,251,1), rgba(249,250,251,1))",
+                    "borderLeft": "1px solid rgba(209,213,219,1)",
+                    "flexShrink": 0,
+                    "paddingTop": "12px",
+                    "borderRight": "1px solid rgba(209,213,219,1)",
+                    "paddingLeft": "12px",
+                    "borderBottom": "1px solid rgba(209,213,219,1)",
+                    "borderRadius": "8px",
+                    "paddingRight": "12px",
+                    "flexDirection": "row",
+                    "paddingBottom": "12px",
+                    "justifyContent": "start"
+                  },
+                  "events": [],
+                  "weavely": {
+                    "component": null,
+                    "attributes": {},
+                    "figmaNodeId": "I4:4284;862:120"
+                  },
+                  "children": [
+                    {
+                      "id": "61519705-8371-4000-a583-289463296000",
+                      "tag": "div",
+                      "data": {},
+                      "layer": {
+                        "id": "I4:4284;862:121",
+                        "name": "Content",
+                        "boundingBox": {
+                          "x": -81,
+                          "y": -58,
+                          "width": 286,
+                          "height": 18
+                        },
+                        "figmaNodeType": "FRAME"
+                      },
+                      "style": {
+                        "gap": "0px",
+                        "width": "286px",
+                        "display": "flex",
+                        "opacity": 1,
+                        "flexGrow": 1,
+                        "overflow": "visible",
+                        "position": "relative",
+                        "alignSelf": "",
+                        "alignItems": "start",
+                        "background": "",
+                        "flexShrink": 0,
+                        "paddingTop": "0px",
+                        "paddingLeft": "0px",
+                        "paddingRight": "0px",
+                        "flexDirection": "row",
+                        "paddingBottom": "0px",
+                        "justifyContent": "start"
+                      },
+                      "events": [],
+                      "weavely": {
+                        "component": null,
+                        "attributes": {},
+                        "figmaNodeId": "I4:4284;862:121"
+                      },
+                      "children": [
+                        {
+                          "id": "23997417-0589-4000-a590-735806590000",
+                          "tag": "div",
+                          "data": {},
+                          "layer": {
+                            "id": "I4:4284;862:122",
+                            "name": "First Name",
+                            "boundingBox": {
+                              "x": -81,
+                              "y": -58,
+                              "width": 286,
+                              "height": 18
+                            },
+                            "figmaNodeType": "TEXT"
+                          },
+                          "style": {
+                            "width": "286px",
+                            "height": "18px",
+                            "display": "flex",
+                            "opacity": 1,
+                            "flexGrow": 1,
+                            "flexWrap": "wrap",
+                            "overflow": "visible",
+                            "position": "relative",
+                            "alignSelf": "",
+                            "flexShrink": 0,
+                            "alignContent": "center",
+                            "justifyContent": "left"
+                          },
+                          "events": [],
+                          "weavely": {
+                            "component": {
+                              "id": "23997417-0589-4000-a590-735806590000",
+                              "name": "InputText",
+                              "label": "First Name",
+                              "settings": {},
+                              "coordinates": "62 -49"
+                            },
+                            "attributes": {},
+                            "figmaNodeId": "I4:4284;862:122",
+                            "patternMatchStatus": true
+                          },
+                          "children": [
+                            {
+                              "tag": "input",
+                              "data": {
+                                "text": "Enter here"
+                              },
+                              "layer": {},
+                              "style": {
+                                "color": "rgba(107,114,128,1)",
+                                "width": "100%",
+                                "border": 0,
+                                "fontSize": "14px",
+                                "textAlign": "LEFT",
+                                "fontFamily": "Inter",
+                                "fontWeight": 400,
+                                "lineHeight": "125%",
+                                "whiteSpace": "pre-wrap",
+                                "letterSpacing": "0.000em",
+                                "textTransform": "none",
+                                "textDecoration": "none"
+                              },
+                              "events": [],
+                              "weavely": null,
+                              "children": [],
+                              "namespace": "http://www.w3.org/1999/xhtml",
+                              "attributes": {
+                                "name": "23997417-0589-4000-a590-735806590000",
+                                "placeholder": "Enter here"
+                              },
+                              "dataAttributes": {}
+                            }
+                          ],
+                          "namespace": "http://www.w3.org/1999/xhtml",
+                          "attributes": {},
+                          "dataAttributes": {
+                            "figmaId": "I4:4284;862:122",
+                            "component": "InputText",
+                            "figmaNodeName": "First Name",
+                            "figmaNodeType": "TEXT"
+                          }
+                        }
+                      ],
+                      "namespace": "http://www.w3.org/1999/xhtml",
+                      "attributes": {},
+                      "dataAttributes": {
+                        "figmaId": "I4:4284;862:121",
+                        "figmaNodeName": "Content",
+                        "figmaNodeType": "FRAME"
+                      }
+                    }
+                  ],
+                  "namespace": "http://www.w3.org/1999/xhtml",
+                  "attributes": {},
+                  "dataAttributes": {
+                    "figmaId": "I4:4284;862:120",
+                    "figmaNodeName": "Container",
+                    "figmaNodeType": "FRAME"
+                  }
+                }
+              ],
+              "namespace": "http://www.w3.org/1999/xhtml",
+              "attributes": {},
+              "dataAttributes": {
+                "figmaId": "4:4284",
+                "figmaNodeName": "input-email",
+                "figmaNodeType": "INSTANCE"
+              }
+            },
+            {
+              "id": "33983308-2031-4000-a754-853008011000",
+              "tag": "div",
+              "data": {},
+              "layer": {
+                "id": "4:4285",
+                "name": "input-email",
+                "boundingBox": {
+                  "x": -93,
+                  "y": -4,
+                  "width": 310,
+                  "height": 71
+                },
+                "figmaNodeType": "INSTANCE"
+              },
+              "style": {
+                "gap": "8px",
+                "display": "flex",
+                "opacity": 1,
+                "flexGrow": 0,
+                "overflow": "visible",
+                "position": "relative",
+                "alignSelf": "stretch",
+                "alignItems": "center",
+                "background": "",
+                "flexShrink": 0,
+                "paddingTop": "0px",
+                "paddingLeft": "0px",
+                "paddingRight": "0px",
+                "flexDirection": "column",
+                "paddingBottom": "0px",
+                "justifyContent": "start"
+              },
+              "events": [],
+              "weavely": {
+                "component": null,
+                "attributes": {},
+                "figmaNodeId": "4:4285"
+              },
+              "children": [
+                {
+                  "id": "08021573-2077-4000-a744-492823175000",
+                  "tag": "div",
+                  "data": {},
+                  "layer": {
+                    "id": "I4:4285;862:119",
+                    "name": "Label",
+                    "boundingBox": {
+                      "x": -93,
+                      "y": -4,
+                      "width": 310,
+                      "height": 21
+                    },
+                    "figmaNodeType": "TEXT"
+                  },
+                  "style": {
+                    "height": "21px",
+                    "display": "flex",
+                    "opacity": 1,
+                    "flexGrow": 0,
+                    "flexWrap": "wrap",
+                    "overflow": "visible",
+                    "position": "relative",
+                    "alignSelf": "stretch",
+                    "flexShrink": 0,
+                    "alignContent": "start",
+                    "justifyContent": "left"
+                  },
+                  "events": [],
+                  "weavely": {
+                    "component": null,
+                    "attributes": {},
+                    "figmaNodeId": "I4:4285;862:119"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "data": {
+                        "text": "Your email"
+                      },
+                      "layer": {},
+                      "style": {
+                        "color": "rgba(17,25,40,1)",
+                        "width": "100%",
+                        "fontSize": "14px",
+                        "textAlign": "LEFT",
+                        "fontFamily": "Inter",
+                        "fontWeight": 500,
+                        "lineHeight": "150%",
+                        "whiteSpace": "pre-wrap",
+                        "letterSpacing": "0.000em",
+                        "textTransform": "none",
+                        "textDecoration": "none"
+                      },
+                      "events": [],
+                      "weavely": null,
+                      "children": [],
+                      "namespace": "http://www.w3.org/1999/xhtml",
+                      "attributes": {},
+                      "dataAttributes": {}
+                    }
+                  ],
+                  "namespace": "http://www.w3.org/1999/xhtml",
+                  "attributes": {},
+                  "dataAttributes": {
+                    "figmaId": "I4:4285;862:119",
+                    "figmaNodeName": "Label",
+                    "figmaNodeType": "TEXT"
+                  }
+                },
+                {
+                  "id": "68318459-8611-4000-a792-239634502000",
+                  "tag": "div",
+                  "data": {},
+                  "layer": {
+                    "id": "I4:4285;862:120",
+                    "name": "Container",
+                    "boundingBox": {
+                      "x": -93,
+                      "y": 25,
+                      "width": 310,
+                      "height": 42
+                    },
+                    "figmaNodeType": "FRAME"
+                  },
+                  "style": {
+                    "gap": "10px",
+                    "display": "flex",
+                    "opacity": 1,
+                    "flexGrow": 0,
+                    "overflow": "visible",
+                    "position": "relative",
+                    "alignSelf": "stretch",
+                    "borderTop": "1px solid rgba(209,213,219,1)",
+                    "alignItems": "start",
+                    "background": "linear-gradient(rgba(249,250,251,1), rgba(249,250,251,1))",
+                    "borderLeft": "1px solid rgba(209,213,219,1)",
+                    "flexShrink": 0,
+                    "paddingTop": "12px",
+                    "borderRight": "1px solid rgba(209,213,219,1)",
+                    "paddingLeft": "12px",
+                    "borderBottom": "1px solid rgba(209,213,219,1)",
+                    "borderRadius": "8px",
+                    "paddingRight": "12px",
+                    "flexDirection": "row",
+                    "paddingBottom": "12px",
+                    "justifyContent": "start"
+                  },
+                  "events": [],
+                  "weavely": {
+                    "component": null,
+                    "attributes": {},
+                    "figmaNodeId": "I4:4285;862:120"
+                  },
+                  "children": [
+                    {
+                      "id": "87466326-1888-4000-a469-040905216000",
+                      "tag": "div",
+                      "data": {},
+                      "layer": {
+                        "id": "I4:4285;862:121",
+                        "name": "Content",
+                        "boundingBox": {
+                          "x": -81,
+                          "y": 37,
+                          "width": 286,
+                          "height": 18
+                        },
+                        "figmaNodeType": "FRAME"
+                      },
+                      "style": {
+                        "gap": "0px",
+                        "width": "286px",
+                        "display": "flex",
+                        "opacity": 1,
+                        "flexGrow": 1,
+                        "overflow": "visible",
+                        "position": "relative",
+                        "alignSelf": "",
+                        "alignItems": "start",
+                        "background": "",
+                        "flexShrink": 0,
+                        "paddingTop": "0px",
+                        "paddingLeft": "0px",
+                        "paddingRight": "0px",
+                        "flexDirection": "row",
+                        "paddingBottom": "0px",
+                        "justifyContent": "start"
+                      },
+                      "events": [],
+                      "weavely": {
+                        "component": null,
+                        "attributes": {},
+                        "figmaNodeId": "I4:4285;862:121"
+                      },
+                      "children": [
+                        {
+                          "id": "34659227-8866-4000-a996-039308018000",
+                          "tag": "div",
+                          "data": {},
+                          "layer": {
+                            "id": "I4:4285;862:122",
+                            "name": "Email",
+                            "boundingBox": {
+                              "x": -81,
+                              "y": 37,
+                              "width": 286,
+                              "height": 18
+                            },
+                            "figmaNodeType": "TEXT"
+                          },
+                          "style": {
+                            "width": "286px",
+                            "height": "18px",
+                            "display": "flex",
+                            "opacity": 1,
+                            "flexGrow": 1,
+                            "flexWrap": "wrap",
+                            "overflow": "visible",
+                            "position": "relative",
+                            "alignSelf": "",
+                            "flexShrink": 0,
+                            "alignContent": "center",
+                            "justifyContent": "left"
+                          },
+                          "events": [],
+                          "weavely": {
+                            "component": {
+                              "id": "34659227-8866-4000-a996-039308018000",
+                              "name": "TextLabel",
+                              "label": "Email",
+                              "settings": {},
+                              "coordinates": "62 46"
+                            },
+                            "attributes": {},
+                            "figmaNodeId": "I4:4285;862:122",
+                            "patternMatchStatus": true
+                          },
+                          "children": [
+                            {
+                              "tag": "span",
+                              "data": {
+                                "text": "Enter here"
+                              },
+                              "layer": {},
+                              "style": {
+                                "color": "rgba(107,114,128,1)",
+                                "width": "100%",
+                                "fontSize": "14px",
+                                "textAlign": "LEFT",
+                                "fontFamily": "Inter",
+                                "fontWeight": 400,
+                                "lineHeight": "125%",
+                                "whiteSpace": "pre-wrap",
+                                "letterSpacing": "0.000em",
+                                "textTransform": "none",
+                                "textDecoration": "none"
+                              },
+                              "events": [],
+                              "weavely": null,
+                              "children": [],
+                              "namespace": "http://www.w3.org/1999/xhtml",
+                              "attributes": {},
+                              "dataAttributes": {}
+                            }
+                          ],
+                          "namespace": "http://www.w3.org/1999/xhtml",
+                          "attributes": {},
+                          "dataAttributes": {
+                            "figmaId": "I4:4285;862:122",
+                            "component": "TextLabel",
+                            "figmaNodeName": "Email",
+                            "figmaNodeType": "TEXT"
+                          }
+                        }
+                      ],
+                      "namespace": "http://www.w3.org/1999/xhtml",
+                      "attributes": {},
+                      "dataAttributes": {
+                        "figmaId": "I4:4285;862:121",
+                        "figmaNodeName": "Content",
+                        "figmaNodeType": "FRAME"
+                      }
+                    }
+                  ],
+                  "namespace": "http://www.w3.org/1999/xhtml",
+                  "attributes": {},
+                  "dataAttributes": {
+                    "figmaId": "I4:4285;862:120",
+                    "figmaNodeName": "Container",
+                    "figmaNodeType": "FRAME"
+                  }
+                }
+              ],
+              "namespace": "http://www.w3.org/1999/xhtml",
+              "attributes": {},
+              "dataAttributes": {
+                "figmaId": "4:4285",
+                "figmaNodeName": "input-email",
+                "figmaNodeType": "INSTANCE"
+              }
+            },
+            {
+              "id": "25341618-8557-4000-a285-187844518000",
+              "tag": "div",
+              "data": {},
+              "layer": {
+                "id": "4:4286",
+                "name": "input-password",
+                "boundingBox": {
+                  "x": -93,
+                  "y": 91,
+                  "width": 310,
+                  "height": 71
+                },
+                "figmaNodeType": "INSTANCE"
+              },
+              "style": {
+                "gap": "8px",
+                "display": "flex",
+                "opacity": 1,
+                "flexGrow": 0,
+                "overflow": "visible",
+                "position": "relative",
+                "alignSelf": "stretch",
+                "alignItems": "center",
+                "background": "",
+                "flexShrink": 0,
+                "paddingTop": "0px",
+                "paddingLeft": "0px",
+                "paddingRight": "0px",
+                "flexDirection": "column",
+                "paddingBottom": "0px",
+                "justifyContent": "start"
+              },
+              "events": [],
+              "weavely": {
+                "component": null,
+                "attributes": {},
+                "figmaNodeId": "4:4286"
+              },
+              "children": [
+                {
+                  "id": "49333772-9269-4000-a374-400426352600",
+                  "tag": "div",
+                  "data": {},
+                  "layer": {
+                    "id": "I4:4286;862:119",
+                    "name": "Label",
+                    "boundingBox": {
+                      "x": -93,
+                      "y": 91,
+                      "width": 310,
+                      "height": 21
+                    },
+                    "figmaNodeType": "TEXT"
+                  },
+                  "style": {
+                    "height": "21px",
+                    "display": "flex",
+                    "opacity": 1,
+                    "flexGrow": 0,
+                    "flexWrap": "wrap",
+                    "overflow": "visible",
+                    "position": "relative",
+                    "alignSelf": "stretch",
+                    "flexShrink": 0,
+                    "alignContent": "start",
+                    "justifyContent": "left"
+                  },
+                  "events": [],
+                  "weavely": {
+                    "component": null,
+                    "attributes": {},
+                    "figmaNodeId": "I4:4286;862:119"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "data": {
+                        "text": "Create a password"
+                      },
+                      "layer": {},
+                      "style": {
+                        "color": "rgba(17,25,40,1)",
+                        "width": "100%",
+                        "fontSize": "14px",
+                        "textAlign": "LEFT",
+                        "fontFamily": "Inter",
+                        "fontWeight": 500,
+                        "lineHeight": "150%",
+                        "whiteSpace": "pre-wrap",
+                        "letterSpacing": "0.000em",
+                        "textTransform": "none",
+                        "textDecoration": "none"
+                      },
+                      "events": [],
+                      "weavely": null,
+                      "children": [],
+                      "namespace": "http://www.w3.org/1999/xhtml",
+                      "attributes": {},
+                      "dataAttributes": {}
+                    }
+                  ],
+                  "namespace": "http://www.w3.org/1999/xhtml",
+                  "attributes": {},
+                  "dataAttributes": {
+                    "figmaId": "I4:4286;862:119",
+                    "figmaNodeName": "Label",
+                    "figmaNodeType": "TEXT"
+                  }
+                },
+                {
+                  "id": "19546266-1403-4000-a158-981647057000",
+                  "tag": "div",
+                  "data": {},
+                  "layer": {
+                    "id": "I4:4286;862:120",
+                    "name": "Container",
+                    "boundingBox": {
+                      "x": -93,
+                      "y": 120,
+                      "width": 310,
+                      "height": 42
+                    },
+                    "figmaNodeType": "FRAME"
+                  },
+                  "style": {
+                    "gap": "10px",
+                    "display": "flex",
+                    "opacity": 1,
+                    "flexGrow": 0,
+                    "overflow": "visible",
+                    "position": "relative",
+                    "alignSelf": "stretch",
+                    "borderTop": "1px solid rgba(209,213,219,1)",
+                    "alignItems": "start",
+                    "background": "linear-gradient(rgba(249,250,251,1), rgba(249,250,251,1))",
+                    "borderLeft": "1px solid rgba(209,213,219,1)",
+                    "flexShrink": 0,
+                    "paddingTop": "12px",
+                    "borderRight": "1px solid rgba(209,213,219,1)",
+                    "paddingLeft": "12px",
+                    "borderBottom": "1px solid rgba(209,213,219,1)",
+                    "borderRadius": "8px",
+                    "paddingRight": "12px",
+                    "flexDirection": "row",
+                    "paddingBottom": "12px",
+                    "justifyContent": "start"
+                  },
+                  "events": [],
+                  "weavely": {
+                    "component": null,
+                    "attributes": {},
+                    "figmaNodeId": "I4:4286;862:120"
+                  },
+                  "children": [
+                    {
+                      "id": "34902549-9659-4000-a976-660994822000",
+                      "tag": "div",
+                      "data": {},
+                      "layer": {
+                        "id": "I4:4286;862:121",
+                        "name": "Content",
+                        "boundingBox": {
+                          "x": -81,
+                          "y": 132,
+                          "width": 286,
+                          "height": 18
+                        },
+                        "figmaNodeType": "FRAME"
+                      },
+                      "style": {
+                        "gap": "0px",
+                        "width": "286px",
+                        "display": "flex",
+                        "opacity": 1,
+                        "flexGrow": 1,
+                        "overflow": "visible",
+                        "position": "relative",
+                        "alignSelf": "",
+                        "alignItems": "start",
+                        "background": "",
+                        "flexShrink": 0,
+                        "paddingTop": "0px",
+                        "paddingLeft": "0px",
+                        "paddingRight": "0px",
+                        "flexDirection": "row",
+                        "paddingBottom": "0px",
+                        "justifyContent": "start"
+                      },
+                      "events": [],
+                      "weavely": {
+                        "component": null,
+                        "attributes": {},
+                        "figmaNodeId": "I4:4286;862:121"
+                      },
+                      "children": [
+                        {
+                          "id": "00336081-3810-4000-a852-393535046000",
+                          "tag": "div",
+                          "data": {},
+                          "layer": {
+                            "id": "I4:4286;862:122",
+                            "name": "Password",
+                            "boundingBox": {
+                              "x": -81,
+                              "y": 132,
+                              "width": 286,
+                              "height": 18
+                            },
+                            "figmaNodeType": "TEXT"
+                          },
+                          "style": {
+                            "width": "286px",
+                            "height": "18px",
+                            "display": "flex",
+                            "opacity": 1,
+                            "flexGrow": 1,
+                            "flexWrap": "wrap",
+                            "overflow": "visible",
+                            "position": "relative",
+                            "alignSelf": "",
+                            "flexShrink": 0,
+                            "alignContent": "center",
+                            "justifyContent": "left"
+                          },
+                          "events": [],
+                          "weavely": {
+                            "component": null,
+                            "attributes": {},
+                            "figmaNodeId": "I4:4286;862:122",
+                            "patternMatchStatus": true
+                          },
+                          "children": [
+                            {
+                              "tag": "span",
+                              "data": {
+                                "text": "Enter here"
+                              },
+                              "layer": {},
+                              "style": {
+                                "color": "rgba(107,114,128,1)",
+                                "width": "100%",
+                                "fontSize": "14px",
+                                "textAlign": "LEFT",
+                                "fontFamily": "Inter",
+                                "fontWeight": 400,
+                                "lineHeight": "125%",
+                                "whiteSpace": "pre-wrap",
+                                "letterSpacing": "0.000em",
+                                "textTransform": "none",
+                                "textDecoration": "none"
+                              },
+                              "events": [],
+                              "weavely": null,
+                              "children": [],
+                              "namespace": "http://www.w3.org/1999/xhtml",
+                              "attributes": {},
+                              "dataAttributes": {}
+                            }
+                          ],
+                          "namespace": "http://www.w3.org/1999/xhtml",
+                          "attributes": {},
+                          "dataAttributes": {
+                            "figmaId": "I4:4286;862:122",
+                            "figmaNodeName": "Password",
+                            "figmaNodeType": "TEXT"
+                          }
+                        }
+                      ],
+                      "namespace": "http://www.w3.org/1999/xhtml",
+                      "attributes": {},
+                      "dataAttributes": {
+                        "figmaId": "I4:4286;862:121",
+                        "figmaNodeName": "Content",
+                        "figmaNodeType": "FRAME"
+                      }
+                    }
+                  ],
+                  "namespace": "http://www.w3.org/1999/xhtml",
+                  "attributes": {},
+                  "dataAttributes": {
+                    "figmaId": "I4:4286;862:120",
+                    "figmaNodeName": "Container",
+                    "figmaNodeType": "FRAME"
+                  }
+                }
+              ],
+              "namespace": "http://www.w3.org/1999/xhtml",
+              "attributes": {},
+              "dataAttributes": {
+                "figmaId": "4:4286",
+                "figmaNodeName": "input-password",
+                "figmaNodeType": "INSTANCE"
+              }
+            },
+            {
+              "id": "54485735-8730-4000-a469-868839747600",
+              "tag": "div",
+              "data": {},
+              "layer": {
+                "id": "4:4287",
+                "name": "Button",
+                "boundingBox": {
+                  "x": 11.5,
+                  "y": 186,
+                  "width": 101,
+                  "height": 44
+                },
+                "figmaNodeType": "INSTANCE"
+              },
+              "style": {
+                "gap": "0px",
+                "cursor": "pointer",
+                "height": "44px",
+                "display": "flex",
+                "opacity": 1,
+                "flexGrow": 0,
+                "overflow": "hidden",
+                "position": "relative",
+                "alignSelf": "",
+                "alignItems": "center",
+                "background": "linear-gradient(rgba(28,100,242,1), rgba(28,100,242,1))",
+                "flexShrink": 0,
+                "paddingTop": "10px",
+                "paddingLeft": "20px",
+                "borderRadius": "8px",
+                "paddingRight": "20px",
+                "flexDirection": "row",
+                "paddingBottom": "10px",
+                "justifyContent": "center"
+              },
+              "events": [],
+              "weavely": {
+                "component": null,
+                "attributes": {},
+                "figmaNodeId": "4:4287",
+                "interactions": [
+                  {
+                    "id": "ON_CLICK-NAVIGATE-null",
+                    "name": "NavigateToFrameInteraction",
+                    "style": {
+                      "cursor": "pointer"
+                    },
+                    "components": [
+                      {
+                        "id": "18040661-8095-4000-a661-504678871000",
+                        "DOM": {
+                          "elementId": "54485735-8730-4000-a469-868839747600"
+                        },
+                        "name": "Interaction",
+                        "label": "Button (click)",
+                        "settings": {
+                          "event": "click"
+                        },
+                        "coordinates": "62 259"
+                      },
+                      {
+                        "id": "66702095-6094-4000-a632-479045361660",
+                        "DOM": {
+                          "elementId": "54485735-8730-4000-a469-868839747600"
+                        },
+                        "name": "NavigateToFrame",
+                        "settings": {},
+                        "coordinates": "62 259"
+                      }
+                    ],
+                    "connections": [
+                      {
+                        "id": "87172008-6632-4000-a193-027945467900",
+                        "type": "TRIGGER",
+                        "sourcePort": "output_trigger",
+                        "targetPort": "input_trigger",
+                        "sourceComponent": "18040661-8095-4000-a661-504678871000",
+                        "targetComponent": "66702095-6094-4000-a632-479045361660"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "children": [
+                {
+                  "id": "00947356-4239-4500-a886-800421605000",
+                  "tag": "div",
+                  "data": {},
+                  "layer": {
+                    "id": "I4:4287;652:152",
+                    "name": "Continue",
+                    "boundingBox": {
+                      "x": 31.5,
+                      "y": 197.5,
+                      "width": 61,
+                      "height": 21
+                    },
+                    "figmaNodeType": "TEXT"
+                  },
+                  "style": {
+                    "width": "61px",
+                    "height": "21px",
+                    "display": "flex",
+                    "opacity": 1,
+                    "flexGrow": 0,
+                    "flexWrap": "wrap",
+                    "overflow": "visible",
+                    "position": "relative",
+                    "alignSelf": "",
+                    "flexShrink": 0,
+                    "alignContent": "center",
+                    "justifyContent": "left"
+                  },
+                  "events": [],
+                  "weavely": {
+                    "component": null,
+                    "attributes": {},
+                    "figmaNodeId": "I4:4287;652:152"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "data": {
+                        "text": "Continue"
+                      },
+                      "layer": {},
+                      "style": {
+                        "color": "rgba(255,255,255,1)",
+                        "width": "100%",
+                        "fontSize": "14px",
+                        "textAlign": "LEFT",
+                        "fontFamily": "Inter",
+                        "fontWeight": 500,
+                        "lineHeight": "150%",
+                        "whiteSpace": "pre-wrap",
+                        "letterSpacing": "0.000em",
+                        "textTransform": "none",
+                        "textDecoration": "none"
+                      },
+                      "events": [],
+                      "weavely": null,
+                      "children": [],
+                      "namespace": "http://www.w3.org/1999/xhtml",
+                      "attributes": {},
+                      "dataAttributes": {}
+                    }
+                  ],
+                  "namespace": "http://www.w3.org/1999/xhtml",
+                  "attributes": {},
+                  "dataAttributes": {
+                    "figmaId": "I4:4287;652:152",
+                    "figmaNodeName": "Continue",
+                    "figmaNodeType": "TEXT"
+                  }
+                }
+              ],
+              "namespace": "http://www.w3.org/1999/xhtml",
+              "attributes": {},
+              "dataAttributes": {
+                "figmaId": "4:4287",
+                "figmaNodeName": "Button",
+                "figmaNodeType": "INSTANCE"
+              }
+            }
+          ],
+          "namespace": "http://www.w3.org/1999/xhtml",
+          "attributes": {},
+          "dataAttributes": {
+            "figmaId": "4:4281",
+            "figmaNodeName": "form",
+            "figmaNodeType": "FRAME"
+          }
+        }
+      ],
+      "namespace": "http://www.w3.org/1999/xhtml",
+      "attributes": {},
+      "dataAttributes": {
+        "figmaId": "4:4277",
+        "figmaNodeName": "wrapper",
+        "figmaNodeType": "FRAME"
+      }
+    }
+  ],
+  "initialFrame": null
+}
